@@ -1,0 +1,223 @@
+*{
+    box-sizing:border-box;
+    font-family: "Arial", serif;
+    
+}
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: white;
+   
+}
+.container{
+    max-width: 480px;
+    min-height: 75px;
+    margin: 0 auto;
+    background-color: rgb(54, 87, 96);
+    padding-bottom: 20px;
+}
+.header_nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    
+    
+}
+
+.menu{
+    background-image: url(../img/search.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+}
+.logo{
+    background-image: url(../img/Nike.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70px;
+    height: 50px;
+}
+.lupa{
+    background-image: url(../img/bell.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 25px;
+    height: 30px;
+}
+.div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 30px;
+}
+.div2{
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(197, 212, 212);
+    text-align: center;
+}
+.p1{
+    color: rgb(124, 124, 146);
+    text-align: center;
+}
+.div3{
+    position: relative;
+    width: 440px;
+    height: 280px;
+    border-radius: 20px;
+    background-color: rgb(57, 57, 94);
+    margin: 0 auto;
+    padding: 15px;
+}
+.span{
+    font-size: 40px;
+}
+.btn1{
+    width: 140px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: rgb(255, 145, 0);
+    border: 1px solid rgb(255, 145, 0);
+    color: rgb(57, 57, 94);
+margin-left: 15px;
+}
+h1{
+    margin-left: 15px;
+}
+.cros{
+    position: absolute;
+    background-image: url(../img/nike3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 150px;
+    bottom: 15px;
+    right: 5px;
+}
+.h2{
+    margin-left: 20px;
+    font-size: 24px;
+    margin-top: 30px;
+}
+.h3{
+    color: rgb(57, 57, 94);
+    font-size: 28px;
+}
+.div4{
+    background-color: white;
+    border-radius: 25px;
+    width: 250px;
+    height: 230px;
+    margin-left: 20px;
+   padding: 0 20px;
+}
+.div5{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.heart{
+    background-image: url(../img/shopping\ bag_2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+}
+.kros2{
+    background-image: url(../img/nike2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 160px;
+    height: 90px;
+    margin: 0 auto;
+}
+.p2{
+    text-align: center;
+    color: rgb(57, 57, 94);
+    font-weight: 700;
+}
+.dom{
+    background-image: url(../img/home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 32px;
+    height: 33px;
+}
+.kor{
+    background-image: url(../img/shopping\ bag.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 32px;
+    height: 33px;
+}
+.settings{
+    background-image: url(../img/settings.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 32px;
+    height: 33px;
+}
+.profil{
+    background-image: url(../img/profile.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 33px;
+    height: 35px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
